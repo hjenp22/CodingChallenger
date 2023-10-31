@@ -34,7 +34,7 @@ Question 3!
 Initials and Score
 
 ## Link to Deployed Attributes
- https://hjenp22.github.io/password-generatorHW3/
+https://hjenp22.github.io/CodingChallenger/
  
 ## About the Author
 - Email: hjipark22@gmail.com

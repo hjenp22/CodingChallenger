@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#start-screen, #quiz-screen, #end-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#quiz-screen, #end-screen {
+    display: none;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#choices-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#choices-container button {
+    margin-top: 5px;
+}
+
+#end-screen input {
+    text-transform: uppercase;
+}
+
+

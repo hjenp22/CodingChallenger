@@ -17,19 +17,20 @@ using the skillsets learned over the course of HTML, CSS, and JavaScript to crea
 - I am able to save my initials and score
 
 ## Coding Quiz Screenshots
-![start](screencapture-127-0-0-1-5500-index-html-2023-10-30-22_38_37.png)
+![Start](<screencapture-127-0-0-1-5500-index-html-2023-10-30-22_38_37 (1).png>)
 Opening page
 
-![Q1](screencapture-127-0-0-1-5500-Develop-index-html-2023-10-30-22_46_46.png)
+![Q1](screencapture-127-0-0-1-5500-Develop-index-html-2023-10-30-23_14_28.png)
 Question 1!
 
-![Q2](<screencapture-127-0-0-1-5500-Develop-index-html-2023-10-30-22_47_47 (1).png>)
-Question 2! 
+![Q2](screencapture-127-0-0-1-5500-Develop-index-html-2023-10-30-22_47_47.png)
+Question 2!
+
 
 ![Q3](screencapture-127-0-0-1-5500-Develop-index-html-2023-10-30-22_48_13.png)
 Question 3!
 
-![End page](screencapture-127-0-0-1-5500-Develop-index-html-2023-10-30-22_48_22.png)
+![End Page](screencapture-127-0-0-1-5500-Develop-index-html-2023-10-30-22_48_22.png)
 Initials and Score
 
 ## Link to Deployed Attributes
